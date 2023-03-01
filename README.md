@@ -3,3 +3,5 @@ Projeto de obtenção de informações sobre grau e vizinhança dos vértices de
 
 Entrada: I. Nome do arquivo contendo as informações/dados sobre um grafo direcionado; II. Número de um dos vértices do grafo descrito no arquivo.
 Saída: I. Grau de saída; II. Grau de entrada; III. Conjunto de sucessores; IV. Conjunto de predecessores.
+
+![Print de exemplo](exemplo.PNG "Print de exemplo da entrada e saída")
